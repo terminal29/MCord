@@ -6,3 +6,9 @@ prefix: MCord
 authors: [terminal29]
 description: A super simple 2 way discord chat relay
 website: terminal29.com
+commands:
+  mcord:
+    description: List or run an MCord command
+    usage: /mcord <command>
+    permission: mcord.list
+    permission-message: You don't have permission to run this command

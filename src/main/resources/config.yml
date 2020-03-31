@@ -1,2 +1,4 @@
 token: ""
 channelID: 0
+enabled: true
+postStatusMessages: false
